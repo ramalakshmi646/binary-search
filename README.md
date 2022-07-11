@@ -1,7 +1,6 @@
-# binary-search
-# Implementation of binary search algorithm!!
+# binary-search Implementation of binary search algorithm!!
 
-# We will prove that binary search is faster than naive search!
+ We will prove that binary search is faster than naive search!
 
 Binary Search is a searching algorithm used in a sorted array by repeatedly dividing the search interval in half. The idea of binary search is to use the information that the array is sorted and reduce the time complexity to O(Log n). 
 
@@ -17,7 +16,7 @@ Binary Search Algorithm can be implemented in the following two ways
 Iterative Method
 Recursive Method
 
-#naive search
+naive search
 Naïve pattern searching is the simplest method among other pattern searching algorithms. It checks for all character of the main string to the pattern. This algorithm is helpful for smaller texts. It does not need any pre-processing phases. We can find substring by checking once for the string. It also does not occupy extra space to perform the operation.
 
 The time complexity of Naïve Pattern Search method is O(m*n). The m is the size of pattern and n is the size of the main string.
